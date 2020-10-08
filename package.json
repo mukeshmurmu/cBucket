@@ -1,0 +1,14 @@
+{
+  "name": "cloudbucket",
+  "version": "1.0.0",
+  "description": "We providing a cloud storage service for the users.",
+  "main": "index.php",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cbucket"
+  ],
+  "author": "Mukesh Kumar Murmu",
+  "license": "ISC"
+}
